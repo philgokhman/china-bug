@@ -1,6 +1,7 @@
 CHINA BUG
 
-This was a small project I made during my free time, in a tribute to the 2001 Code Red worm. The HTML/JS can be injected into a site's source code, essentially overwriting the page's layout and giving the user an interesting payload.
+chinabug.html - the bug itself.
+vulnerable airbnb.html - AirBnbB injected with the bug.
 
 Notes:
 
