@@ -1,0 +1,1 @@
+I'm Phil. This is my repository for all of my projects, HTML, Java, etc. As of creating this repository, I know HTML/CSS and a bit of Java, and will expand these skills in time.
