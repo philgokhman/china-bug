@@ -1,6 +1,7 @@
 CHINA BUG
 
 chinabug.html - the bug itself.
+
 vulnerable airbnb.html - AirBnbB injected with the bug.
 
 Notes:
