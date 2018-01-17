@@ -2,8 +2,6 @@ CHINA BUG
 
 chinabug.html - the bug itself.
 
-vulnerable airbnb.html - AirBnB site injected with the bug (activates immediately)
-
 Notes:
 
 *User must disable popup blocking, or else the payload will not trigger due to the capabilities of HTML/Javascript. Only the site would be incapacitated, but not the user.
